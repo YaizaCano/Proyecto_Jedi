@@ -20,4 +20,6 @@ Durante la realización de éste, mi proyecto, he aprendido:
 - De manera autodidacta:
   - Bases de datos ([Room](https://developer.android.com/topic/libraries/architecture/room))
   - [AndroidX](https://developer.android.com/jetpack/androidx/) 
-  
+  - [AsyncTask](https://developer.android.com/reference/android/os/AsyncTask)
+  - Lanzar activities esperando un resultado (startActivityForResult)
+  - Inflar vistas dinámicamente
